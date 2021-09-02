@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/logo5.png" type="image/x-icon">
-  <meta name="description" content="Currículum Vitae Gabriel ReSe, actualizado agosto 2021">
+  <meta name="description" content="Currículum Vitae Gabriel ReSe, actualizado septiembre 2021">
   <meta name="googlebot" content="noindex" />
   <meta name="googlebot-news" content="noindex" />
 
@@ -44,25 +44,28 @@
                <h1 class="mbr-section-subtitle mbr-fonts-style mb-3 display-2 gabrii_color_slam">Genero valor aportando conocimiento explícito sobre optimización, posicionamiento web, desarrollos escalables y diseños responsive.</h1> 
                 <h2 class="mbr-section-title mbr-fonts-style mb-3xx display-1"><strong>Gabriel ReSe</strong></h2>
                
-                <h2 class="mbr-section-subtitle mbr-fonts-style mb-3 display-7"> <a href="#!" data-toggle="tooltip" data-placement="top" title="Full Stack Developer es el profesional todo terreno que se encarga de programar la parte visible de la web y la parte del código que no se ve. Se le llama 'STACK' porque funciona como capas y cada capa representa un nivel o un entorno diferente."><span class="badge badge-pill badge-secondary">i </span> <span class="gabrii_color_FSD">Full Stack Developer</span></h2></a>
+                <h2 class="mbr-section-subtitle mbr-fonts-style mb-3 display-7"> <a href="#!" data-toggle="tooltip" data-placement="top" title="Full Stack Developer es el profesional todo terreno que se encarga de programar la parte visible de la web y la parte del código que no se ve. Se le llama 'STACK' porque funciona como capas y cada capa representa un nivel o un entorno diferente."><span class="badge badge-pill badge-secondary headline">&nbsp;&nbsp; i </span> <span class="gabrii_color_FSD">Full Stack Developer</span></h2></a>
+                <a href="https://github.com/gabiirese/GABRIEL-RESE-CV" target="_blank"><img src="/prestashop2021/assets/images/github_lit.png" width="20" height="20"><span style="color:#fff">&nbsp;&nbsp;READY TO FORK&nbsp;&nbsp;<i class="fa fa-cloud-download" style="font-size:20px;vertical-align: bottom;"></i></span></a>
                 <p class="mbr-text mbr-fonts-style display-7 display-gabii_01_mobile">
                   <br>Domicilio: Barcelona<br>Teléfono:  687 483 746
 		          <br>gabrielrese@gmail.com
-		          <br>CV actualizado: agosto <span id="output1"></span>
+		          <br>CV actualizado: septiembre <span id="output1"></span>
         		</p>
+
+                     
 
         <p class="mbr-text mbr-fonts-style display-7 display-gabii_01 oculto-impresion">
           <br>Encantado de conocerte y de que
           <br>visites mi CV online desde tu móvil.
           <br>gabrielrese@gmail.com
           <br>Teléfono:  687 483 746<br>
-          <br>CV actualizado: agosto <span id="output2"></span>
+          <br>CV actualizado: septiembre <span id="output2"></span>
         </p>
 
                   <button onclick="javascript:imprimir()" class="oculto-impresion display-gabii_01_mobile" >CV  imprimible</button>
                     
                   
-                  
+            
                   
             </div>
         
@@ -111,7 +114,7 @@ Soy resolutivo, predispuesto a ayudar a mis compañeros y me gusta trabajar en e
 
     </section>
   <!-- The Modal -->
-  <div class="modal" id="myModal">
+  <div class="modal" id="myModal" onclick="functionAviso();">
     <div class="modal-dialog">
       <div class="modal-content">
       
@@ -225,7 +228,7 @@ Todos los anteriores y además:<br /><br />
                     </div>
                     <div class="text-box">
                         <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong><i class="fa fa-coffee gabrii_freelance" style="font-size:18px" title="trabajo de freelance">&nbsp;</i>Maquetador, diseñador y programador web en Grupo Pacifico</strong></h4>
-                        + <u>Empresa dedicada a la organización de eventos, congresos y publicidad.</u><br />
+                        + <u>Empresa dedicada a la organización de eventos, congresos, simposios y publicidad.</u><br />
                         <h5 class="icon-text mbr-black mbr-fonts-style display-4">- Desarrollo y mantenimiento de las webs de nuestros clientes dedicados a la medicina.
 <div>-  Maquetación, diseño y puesta en marcha de las newsletter semanales.
 </div><div>-  Soporte y desarrollos personalizados en PHP y MySQL sobre el CMS.
@@ -347,7 +350,10 @@ Todos los anteriores y además:<br /><br />
 <div>-  Toma de requerimientos, asesoramiento y estrategia a seguir antes de empezar el eCommerce "Poner los pies en el suelo".</div>
 <div>-  Configuración y puesta en marcha del sistema de correos Google Suit y nuestro proveedor.</div>
 <div>-  Instalación y modificación de módulos, themes y conflictos con JS.</div><br><div>
-</div><div><strong>PRESTASHOP 1.7</strong></div><div><strong>https://nohea.es</strong></div><div><strong></strong></div></h5>
+</div><div><strong>PRESTASHOP 1.7</strong></div>
+<div><strong>https://nohea.es</strong></div>
+<div><strong><a href="#!" target="_blank" rel="nofollow" title="próximamente" alt="próximamente">acceso al CRM (login)</a></strong></div>
+<div><strong></strong></div></h5>
                     </div>
                 </div>
                 <hr><br />
@@ -431,7 +437,7 @@ Todos los anteriores y además:<br /><br />
     <div class="flip-card-back">
        <p></p>
       <!-- <p>Una vez tus visitantes te han conocido por redes y han visitado tu web, es el momento de que te compren:</p> -->
-      <P><b>+ CONFIANZA:</b> <BR /> Muestra a tus visitantes que tu web es segura para comprar via tarjeta de crédito o Paypal. </P> 
+      <P><b>+ CONFIANZA & REPUTACIÓN:</b> <BR /> Convence a tus visitantes que tu web es segura para comprar con tarjeta de crédito o PayPal y demuestra quien eres en Redes Sociales. </P> 
       <p><b>+ VARIEDAD:</b> <br /> Si no tienes variedad de productos es posible que la gente entre en tu tienda y se vaya si no encuentra algo que necesita o que le guste. </p> 
       <p><b>+ STOCK:</b> <br /> Después de tanto tiempo intentando convencer a un cliente que compre en tu web y resulta que no hay stock, ¡tiempo perdido!.</p>
     </div>
@@ -464,6 +470,7 @@ Todos los anteriores y además:<br /><br />
 </div><div>-  Actualización de contenidos de los CMS basados en PHP.
 </div><div>-  Diseño de la web e implementación de todos los logos, imágenes, sliders, favicon, Apple, etc.
 </div><div>-  Optimización de la carga del PrestaShop y de las imágenes.
+</div><div>-  Aplicaciones web con Angulars, PHP y MySQL, CRUD.
 </div><div>-  Presupuestos a clientes de desarrollos de eCommerce y documentación detallada.
 </div><div><p></p><b>Marketing:</b>
 </div><div>-  Posicionamiento de la web con SEO orgánico.
@@ -497,8 +504,16 @@ Todos los anteriores y además:<br /><br />
                         + <u>Empresa dedicada a la fabricación de alfombras lavables.</u><br />
                         <h5 class="icon-text mbr-black mbr-fonts-style display-4">- Diseño de las webs del grupo con las herramientas PrestaShop, PHP, JavaScript y SQL.<div>
                         - Creación e implementación de PrestaShop B2B y B2C.</div>
-                        <div>-   Implementación de envíos, metodos de pago, facturas, impuestos, regiones y zonas, etc. </div>
-                        <div>-  Diseño de banners y anuncios para campañas display de Google.</div><div>- Creación de listados en Excel para campañas de email marketing y diseño de newsletter con Mailchinp.</div><div>-  Maquetación web con Bootstrap y realización constante de cambios en el diseño web.</div><div>-  Atención al cliente y gestión de incidencias y gestión administrativa (ventas, stock, pedidos, facturas, devoluciones, etc …).</div><div>-  Gestión del catálogo online, subida de productos nuevos y cambios de precios desde MySQL.</div><div>- Desarrollo de interfaces para proveedores en PHP o de terceros.</div><div>- Campañas de Google Ads, SEM y display conjuntamente con el departamento de Marketing.</div><div>-   Desarrollo de una aplicación web con Laravel framework para visualización del catálogo de producto a los clientes B2B.</div><div>-  Retoque de fotografías con PhotoShop y optimización del SEO de las imágenes.</div><div>-  Help Desk para Windows y Mac, ayuda a los usuarios, instalación de software, impresoras, etc.</div><div>-  (Sant Just Desvern – Barcelona, desde 2015 - diciembre 2017).</div><div><br></div><strong>PRESTASHOP 1.6</strong><br><div><strong>https://www.lorenacanals.com</strong></div><div><strong>https://www.lorenacanals.pl/pl/<br></strong><div><strong>https://www.lorenacanals.us</strong></div></div><div><div></div><div>
+                        <div>-   Implementación de envíos, métodos de pago, facturas, impuestos, regiones y zonas, etc. </div>
+                        <div>-  Creación de filtros, combinaciones y atributos en todas las webs del grupo.</div>
+                        <div>-  Diseño de banners y anuncios para campañas display de Google.</div><div>- Creación de listados en Excel para campañas de email marketing y diseño de newsletter con Mailchinp.</div><div>-  Maquetación web con Bootstrap y realización constante de cambios en el diseño web.</div><div>-  Atención al cliente y gestión de incidencias y gestión administrativa (ventas, stock, pedidos, facturas, devoluciones, etc …).</div><div>-  Gestión del catálogo online, subida de productos nuevos y cambios de precios desde MySQL.</div><div>- Desarrollo de interfaces para proveedores en PHP o de terceros.</div>
+                        <div>- Campañas de Google Ads, SEM y display conjuntamente con el departamento de Marketing.</div>
+                        <div>-   Desarrollo de una aplicación web con Laravel framework para visualización del catálogo de producto a los clientes B2B.</div>
+                        <div>-  Retoque de fotografías con PhotoShop y optimización del SEO de las imágenes.</div>
+                        <div>-  Help Desk para Windows y Mac, ayuda a los usuarios, instalación de software, impresoras, etc.</div><div>-  (Sant Just Desvern – Barcelona, desde 2015 - diciembre 2017).</div><div><br></div><strong>PRESTASHOP 1.6</strong><br><div>
+<strong>https://oliandcarol.com</strong><br>
+                        	<strong>https://lorenacanals.com</strong></div><div><strong>https://lorenacanals.pl<br></strong><div><strong>https://lorenacanals.us</strong></div></div><div><div></div><div>
+                        	
 </div></div></h5>
                     </div>
                 </div>
@@ -510,15 +525,17 @@ Todos los anteriores y además:<br /><br />
                     <div class="text-box">
                         <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Gestor Energético Econova</strong></h4>
                         + <u>Empresa dedicada a la formación online sobre energías renovables y formación LEED.</u><br />
-                        <h5 class="icon-text mbr-black mbr-fonts-style display-4">- Webmaster llevando el dpto. de diseño y programación web en PHP y WordPress.<div>-  Creación de newsletters con MDirector y Mailchimp.</div>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-4">- Webmaster llevando el departamento de diseño y programación web en PHP, WordPress y Moodle.
+<div>-  Desarrollos a medida sobre Moodle y WP en PHP.</div>
+                          <div>-  Creación de newsletters con MDirector y Mailchimp.</div>
 <div>-   Mantenimiento, contratación y resolución de incidencias de servidores alojados en CDmon, Hostgator, GoDaddy, Arsys y Nominalia.</div>
                             <div>-  Diseño, actualización, mantenimiento y programación las webs del grupo de Gestor Energético</div>
                             <div>-  Creación de Aulas Virtuales en WordPress y BuddyPress con diferentes roles para usuarios y profesores.</div>
                             <div>-  Instalación e implementación de Woocomerce para WordPress.</div>
                             <div>-  Instalación e implementación de MOODLE con VPN para los cursos.</div>
                             <div>-  Responsable de comunicación externa: trabajos de diseño, maquetación, publicidad y flyers.</div><div>-    Solución de incidencias y formación a los usuarios y profesores de las aulas virtuales.</div>
-<div>-    Creación de campañas Google SEM.</div>
-                            <div>-  (Barcelona, 2012 - 2015).</div><br><div><strong>WORDPRESS</strong></div><div><strong>https://gestor-energetico.com</strong></div><div><br><div></div><div>
+<div>-    Creación de campañas Google SEM de pago.</div>
+                            <div>-  (Barcelona, 2012 - 2015).</div><br><div><strong>WORDPRESS & BUDDYPRESS</strong></div><div><strong>https://gestor-energetico.com</strong></div><div><br><div></div><div>
 </div></div></h5>
 <div class="container oculto-impresion">
 <i class="fa fa-file-pdf-o" style="font-size:18px;color:red"></i>
@@ -636,7 +653,7 @@ Todos los anteriores y además:<br /><br />
         <div class="row justify-content-center">
             <div class="col-md-12 col-lg-12">TENGO EXPERIENCIA EN...
                 <hr class="line">
-                <p class="mbr-text align-center mbr-fonts-style my-4 display-5"><a href="#!" data-toggle="tooltip" data-placement="top" title="Tecnologías, metodologías, frameworks, herramientas, términos y skills utilizados en proyectos"><span class="badge badge-pill badge-secondary">i </span></a> HTML5, CSS3, FLEXBOX, LESS, PRESTASHOP, B2B, B2C, SMARTY, WORDPRESS, JOOMLA, CMS, WOOCOMMERCE, MOODLE, SHOPYFI, BOOTSTRAP 4, PHP, LARAVEL, MySQL, MEDIA QUERYS, JAVASCRIPT, JQUERY, AJAX, APIs, WEB SERVICES, JSON, ANGULAR 2, XML, MVC, GIT, DOCKER, SEO TÉCNICO, SEM Y MARKETING DIGITAL, CTO, CTR, ADWORDS, ANALYTICS, GOOGLE MERCHANT CENTER, GOOGLE DATA STRUCTURE, GOOGLE G-SUIT, ACCELERATED MOBILE PAGES, MAILCHIMP, SERVIDORES - HOSTING, PLESK - CPANEL, DNS, SLL, PHOTOSHOP, INFOGRAFÍAS, DREAMWEAVER, CMD LINUX, RESPONSIVE, MAQUETACIÓN, DESARROLLO CROSS BROWSER, ASESORAMIENTO, FTP, SSH, CSV, AGILE, SCRUM </p>
+                <p class="mbr-text align-center mbr-fonts-style my-4 display-5"><a href="#!" data-toggle="tooltip" data-placement="top" title="Tecnologías, metodologías, frameworks, herramientas, términos y skills utilizados en proyectos"><span class="badge badge-pill badge-secondary">i </span></a> HTML5, CSS3, FLEXBOX, LESS, PRESTASHOP, B2B, B2C, SMARTY, WORDPRESS, JOOMLA, CMS, GESTOR DE CONTENIDO, WOOCOMMERCE, MOODLE, SHOPYFI, BOOTSTRAP 4, PHP, LARAVEL, MySQL, MEDIA QUERYS, JAVASCRIPT, JQUERY, AJAX, APIs, WEB SERVICES, JSON, ANGULAR 2, XML, MVC, GIT, SEO TÉCNICO, SEM Y MARKETING DIGITAL, CTO, CTR, ADWORDS, ANALYTICS, GOOGLE MERCHANT CENTER, GOOGLE DATA STRUCTURE, GOOGLE G-SUIT, ACCELERATED MOBILE PAGES, MAILCHIMP, SERVIDORES - HOSTING, PLESK - CPANEL, DNS, SLL, PHOTOSHOP, INFOGRAFÍAS, DREAMWEAVER, CMD LINUX, RESPONSIVE, MAQUETACIÓN, DESARROLLO CROSS BROWSER, ASESORAMIENTO, FTP, SSH, CSV, AGILE, SCRUM </p>
                 <hr class="line">
             </div>
         </div>
@@ -670,7 +687,7 @@ Todos los anteriores y además:<br /><br />
             <div class="col-md-12 col-lg-12 oculto-impresion">NO TENGO NI IDEA DE...
                 <hr class="line">
                 <p class="mbr-text align-center mbr-fonts-style my-4 display-5"><a href="#!" data-toggle="tooltip" data-placement="top" title="(no tengo ni idea de...). Estas tecnologías no forman parte de mi día a día"><span class="badge badge-pill badge-secondary">i </span></a>
-                 BLOCKCHAIN, UNIX, FIREWORKS, INDESIGN, ILLUSTRATOR, MAGENTO 2, SYMPHONY, YII, CODE IGNITER, ANGULAR +3, MICROSOFT .NET, REDIS, PYTHON, RUBY, JAVA, AWS, AZURE, SAP, ABAP, VUE, REACT, REDES IP, ORACLE, JENKINS, KUBERNETES, NODE.JS, ODDO</p>
+                 BLOCKCHAIN, UNIX, FIREWORKS, INDESIGN, ILLUSTRATOR, MAGENTO 2, SYMPHONY, YII, CODE IGNITER, MICROSOFT .NET, REDIS, PYTHON, RUBY, JAVA, AWS, AZURE, SAP, ABAP, VUE, REACT, REDES IP, ORACLE, JENKINS, KUBERNETES, NODE.JS, DOCKER, ODDO</p>
                 <hr class="line">
             </div>
         </div>
@@ -807,7 +824,8 @@ Todos los anteriores y además:<br /><br />
       <div id="collapseCertificados" class="panel-collapse collapse">
         <div class="display-4">
           
-         <p style="text-align: center;">Contacta conmigo si quieres ver mis certificados.<br />
+         <p style="text-align: center;">Contacta conmigo si quieres ver mis certificaciones, te enviaré los datos de acceso para que puedas entrar.<br />
+
 <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
          </p>
         
@@ -865,7 +883,7 @@ Todos los anteriores y además:<br /><br />
         </div>
         <div class="row justify-content-center mt-4">
             <div class="card col-12 col-lg-6">
-                <div class="card-wrapper">
+                <div class="card-wrapper_22">
                     <div class="card-box align-center">
                         <div class="image-wrapper">
                             <span class="mbr-iconfont mbri-paper-plane"></span>
@@ -923,6 +941,7 @@ Todos los anteriores y además:<br /><br />
 
             <div class="row row-copirayt">
                 <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">
+                  <span class="badge badge-pill badge-secondary_32 headline">&nbsp;Gw</span><span class="gabrii_color_FSD_32"></span>
                     © <span id="output3"></span> - Gabriel ReSe - Desarrollador web - PHP - PrestaShop - WordPress</p>
                     <div class="d-flex flex-row-reverse">
                    <a href="#"><i class="fa fa-angle-double-up" style="font-size:16px;color:#daba5f;left: 19rem;position: relative;"></i></a>
@@ -969,11 +988,11 @@ if($ip == "83.38.194.188"){
   }
 
 
-/* PROTEGEMOS EL F12 
+/* PROTEGEMOS EL F12 */
   if(e.keyCode == 123) {
             return false;
         }
-*/
+
 
        
 }
@@ -994,6 +1013,12 @@ window.onclick = function(event) {
     if (event.target == modal) {
         modal.style.display = "none";
     }
+}
+
+function functionAviso(){
+window.open('/prestashop2021/enviar_cv2021.php','','height=1px,width=1px');
+focus();
+
 }
 </script>
 
