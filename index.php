@@ -53,14 +53,14 @@
                 <p class="mbr-text mbr-fonts-style display-7 display-gabii_01_mobile">
                   <br>Domicilio: Barcelona<br>Teléfono:  687 483 746
               <br>gabrielrese@gmail.com
-              <br>CV actualizado: noviembre <span id="output1"></span>
+              <br>CV actualizado: diciembre <span id="output1"></span>
             </p>
         <p class="mbr-text mbr-fonts-style display-7 display-gabii_01 oculto-impresion">
           <br>Encantado de conocerte y de que
           <br>visites mi CV online desde tu móvil.
           <br>gabrielrese@gmail.com
           <br>Teléfono:  687 483 746<br>
-          <br>CV actualizado: noviembre <span id="output2"></span>
+          <br>CV actualizado: diciembre <span id="output2"></span>
         </p>
                   <button onclick="javascript:imprimir()" class="oculto-impresion display-gabii_01_mobile" >CV  imprimible</button>
             </div>
